@@ -1,10 +1,12 @@
 # Characterizing the Topology of an Urban Wireless Sensor Network for Road Traffic Management
 
-This project is a web application that simulates the deployment of a wireless sensor network in a city. It uses OpenStreetMap and SUMO maps and deploy sensors based on customizable options and different path loss models. In addition to the data generation, we proposes tools that analyze the topological and structural proprieties of the network.
+This project is a web application that simulates the deployment of a wireless sensor network in a city. It uses OpenStreetMap and SUMO maps and deploy sensors based on customizable options and different path loss models. In addition to the generation of several key metrics and data files, we propose tools to analyze the structural and topological properties of each generated network.
 
 If you use this project or one of its component, we would appreciate a citation of our work:
 
-S. Faye, C. Chaudet, "Characterizing the Topology of an Urban Wireless Sensor Network for Road Traffic Management", in IEEE Transactions on Vehicular Technology, 2015. 
+S. Faye and C. Chaudet, “Characterizing the Topology of an Urban Wireless Sensor Network for Road Traffic Management,” IEEE Transactions on Vehicular Technology, vol. 65, iss. 7, pp. 5720-5725, 2016.
+
+S. Faye and C. Chaudet, “Connectivity Analysis of Wireless Sensor Networks Deployments in Smart Cities,” in The 22nd IEEE Symposium on Communications and Vehicular Technology in the Benelux (SCVT), Luxembourg City, Luxembourg, 2015.
 
 
 
@@ -34,9 +36,9 @@ For more informations see ./LICENCE file.
 
 REQUIREMENTS:
 
-  * A web server with PHP >= 5 (e.g. MAMP on Mac OS X to run the program locally)
+  * A web server with PHP >= 5 (e.g. MAMP on Mac OS X to run the tool locally)
   * Python 2.7
-  * All the programs and libraries listed in « ACKNOWLEDGMENTS » bellow
+  * All the programs and libraries listed in the « ACKNOWLEDGMENTS » section bellow
 
 CONFIGURATION:
 
@@ -53,13 +55,13 @@ STRUCTURE:
 
 # CONTACT
 
-Fell free to contact me via e-mail (m@sfaye.com) or using the following project web page: http://g.sfaye.com/
+Please feel free to contact me via GitHub or using the project web page: http://g.sfaye.com/
 
 
 
 # ACKNOWLEDGMENTS
 
-This program uses the following projects and libraries:
+This tool is based on the following projects and libraries:
 
  * gnuplot
    (c) 1986 - 1993, 1998, 2004, Thomas Williams, Colin Kelley
