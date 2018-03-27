@@ -4,15 +4,15 @@ This project is a web application that simulates the deployment of a wireless se
 
 If you use this project or one of its component, we would appreciate a citation of our work:
 
-S. Faye and C. Chaudet, “Characterizing the Topology of an Urban Wireless Sensor Network for Road Traffic Management,” IEEE Transactions on Vehicular Technology, vol. 65, iss. 7, pp. 5720-5725, 2016.
+- S. Faye and C. Chaudet, “**Characterizing the Topology of an Urban Wireless Sensor Network for Road Traffic Management**,” IEEE Transactions on Vehicular Technology, vol. 65, iss. 7, pp. 5720-5725, 2016.
 
-S. Faye and C. Chaudet, “Connectivity Analysis of Wireless Sensor Networks Deployments in Smart Cities,” in The 22nd IEEE Symposium on Communications and Vehicular Technology in the Benelux (SCVT), Luxembourg City, Luxembourg, 2015.
+- S. Faye and C. Chaudet, “**Connectivity Analysis of Wireless Sensor Networks Deployments in Smart Cities**,” in The 22nd IEEE Symposium on Communications and Vehicular Technology in the Benelux (SCVT), Luxembourg City, Luxembourg, 2015.
 
 
 
 # LICENSING
 
-Copyright (C) 2014 Faye Sébastien <m@sfaye.com>
+Copyright (C) 2014 Faye Sébastien
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
